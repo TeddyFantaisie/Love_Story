@@ -1,0 +1,22 @@
+body{
+background-color:#c72c81;
+background: url("index.jpg");
+}
+
+.mon_titre{
+font-family:georgia, serif;
+font-size: 31px;
+font-weight: soft;
+text-align: center;
+color: #0f0e0c;
+
+}
+
+.mon_texte{
+font-family: georgia, serif;
+color:aliceblue
+}
+
+.centrage{
+text-align: left;
+}
